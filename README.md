@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+NagaseIori(NordLandeW) here.
+
+- Working on everything i'm interested in.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NagaseIori&theme=black-ice&border_radius=10)](https://git.io/streak-stats)
